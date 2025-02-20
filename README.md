@@ -55,3 +55,18 @@ Mips is a **RISC (Reduced Instruction Set Computing)** architecture that has bee
     
   
 </details>
+
+## ALU Operations
+
+| ALU Control Line  | Operation |
+| ------------- | :-------------: |
+| 0000          | AND  |
+| 0001          | OR   |
+| 0010          | ADD  |
+| 0011          | SLL  |
+| 0100          | SRL  |
+| 0101          | SRA  |
+| 0110          | SUB  |
+| 0111          | SLT  |
+| 1000          | XOR  |
+| 1100          | NOR  |
