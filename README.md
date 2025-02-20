@@ -16,4 +16,42 @@ Mips is a **RISC (Reduced Instruction Set Computing)** architecture that has bee
   - `opcode (6) | address (26)`
 
 ## Supportted instructions
-To Be Added......
+
+<details>
+  <summary>R-Type</summary>
+
+ 
+  - And
+  - OR
+  - Add
+  - SLL
+  - SRL
+  - SRA
+  - Sub
+  - SLT
+  - Xor
+  - Nor
+    
+  
+</details>
+
+<details>
+  <summary>I-Type</summary>
+
+ 
+  - LW
+  - SW
+  - BEQ
+    
+  
+</details>
+<details>
+  <summary>J-Type</summary>
+
+ 
+  - None For now..
+  - 
+  - 
+    
+  
+</details>
