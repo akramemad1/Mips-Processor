@@ -21,16 +21,17 @@ Mips is a **RISC (Reduced Instruction Set Computing)** architecture that has bee
   <summary>R-Type</summary>
 
  
-  - And
-  - OR
-  - Add
-  - SLL
-  - SRL
-  - SRA
-  - Sub
-  - SLT
-  - Xor
-  - Nor
+  - and
+  - or
+  - add
+  - sll
+  - srl
+  - sra
+  - sub
+  - slt
+  - xor
+  - nor
+  - jr
     
   
 </details>
@@ -39,9 +40,22 @@ Mips is a **RISC (Reduced Instruction Set Computing)** architecture that has bee
   <summary>I-Type</summary>
 
  
-  - LW
-  - SW
-  - BEQ
+  - lw
+  - sw
+  - beq
+  - bne
+  - addi
+  - slti
+  - andi
+  - ori
+  - xori
+  - lui
+  - lb
+  - lh
+  - lbu
+  - lhu
+  - sb
+  - sh
     
   
 </details>
@@ -49,9 +63,8 @@ Mips is a **RISC (Reduced Instruction Set Computing)** architecture that has bee
   <summary>J-Type</summary>
 
  
-  - None For now..
-  - 
-  - 
+  - j
+  - jal
     
   
 </details>
@@ -70,3 +83,6 @@ Mips is a **RISC (Reduced Instruction Set Computing)** architecture that has bee
 | 0111          | SLT  |
 | 1000          | XOR  |
 | 1100          | NOR  |
+
+
+## More Detailes are coming soon
