@@ -85,4 +85,5 @@ Mips is a **RISC (Reduced Instruction Set Computing)** architecture that has bee
 | 1100          | NOR  |
 
 
-## More Detailes are coming soon
+## Architecture Overview
+![]()
