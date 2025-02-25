@@ -86,4 +86,14 @@ Mips is a **RISC (Reduced Instruction Set Computing)** architecture that has bee
 
 
 ## Architecture Overview
-![]()
+![info](/Documentation/Architecture.png)
+
+## Improvements Could Be Applied
+- Provide Proper Testbench
+  - This is a Directed Input Test, Where You Initialize the Instruction Memory directly by decoding the instructions manualy. A proper Testing is to make the Test Bench read the instructions automatically from a separate file 
+- Check if the design is synthesizabile
+  - the ability to turn the design into chip
+- Support Piplining and exception
+
+## To Use The Design
+- Make Sure you have ModelSim/QuestaSim for simulation
